@@ -1,0 +1,626 @@
+[
+    {
+        "SystemSku":  "Surface_3",
+        "Model":  "Surface 3",
+        "Device":  "Surface 3",
+        "Architecture":  "amd64",
+        "DriverId":  "49040",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_3_US1",
+        "Model":  "Surface 3",
+        "Device":  "Surface 3 LTE ATT",
+        "Architecture":  "amd64",
+        "DriverId":  "49039",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_3_NAG",
+        "Model":  "Surface 3",
+        "Device":  "Surface 3 LTE North America",
+        "Architecture":  "amd64",
+        "DriverId":  "49037",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_3_ROW",
+        "Model":  "Surface 3",
+        "Device":  "Surface 3 LTE Rest of World",
+        "Architecture":  "amd64",
+        "DriverId":  "49041",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_3_US2",
+        "Model":  "Surface 3",
+        "Device":  "Surface 3 LTE Verizon",
+        "Architecture":  "amd64",
+        "DriverId":  "49037",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Book_1832",
+        "Model":  "Surface Book 2",
+        "Device":  "Surface Book 2 13",
+        "Architecture":  "amd64",
+        "DriverId":  "56261",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Book_1793",
+        "Model":  "Surface Book 2",
+        "Device":  "Surface Book 2 15",
+        "Architecture":  "amd64",
+        "DriverId":  "56261",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Book_3_1900",
+        "Model":  "Surface Book 3",
+        "Device":  "Surface Book 3 13",
+        "Architecture":  "amd64",
+        "DriverId":  "101315",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Book_3_1899",
+        "Model":  "Surface Book 3",
+        "Device":  "Surface Book 3 15",
+        "Architecture":  "amd64",
+        "DriverId":  "101315",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Go_2_1926",
+        "Model":  "Surface Go 2",
+        "Device":  "Surface Go 2 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "101304",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Go_2_1901",
+        "Model":  "Surface Go 2",
+        "Device":  "Surface Go 2 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "101304",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Go_2_1927",
+        "Model":  "Surface Go 2",
+        "Device":  "Surface Go 2 LTE",
+        "Architecture":  "amd64",
+        "DriverId":  "101304",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Go_3_1926",
+        "Model":  "Surface Go 3",
+        "Device":  "Surface Go 3 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "103504",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Go_3_1901",
+        "Model":  "Surface Go 3",
+        "Device":  "Surface Go 3 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "103504",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Go_3_2022",
+        "Model":  "Surface Go 3",
+        "Device":  "Surface Go 3 LTE",
+        "Architecture":  "amd64",
+        "DriverId":  "103504",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Go_4_2067",
+        "Model":  "Surface Go 4",
+        "Device":  "Surface Go 4",
+        "Architecture":  "amd64",
+        "DriverId":  "105609",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Go_1824_Commercial",
+        "Model":  "Surface Go",
+        "Device":  "Surface Go Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "57439",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Go_1824_Consumer",
+        "Model":  "Surface Go",
+        "Device":  "Surface Go Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "57439",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Go_1825_Commercial",
+        "Model":  "Surface Go",
+        "Device":  "Surface Go LTE Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "57601",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface Hub 2S",
+        "Model":  "Surface Hub 2S",
+        "Device":  "Surface Hub 2S 50",
+        "Architecture":  "amd64",
+        "DriverId":  "101974",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface Hub 2S 85",
+        "Model":  "Surface Hub 2S",
+        "Device":  "Surface Hub 2S 85",
+        "Architecture":  "amd64",
+        "DriverId":  "101974",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface Hub 3 50",
+        "Model":  "Surface Hub 3",
+        "Device":  "Surface Hub 3 50",
+        "Architecture":  "amd64",
+        "DriverId":  "101974",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface Hub 3 85",
+        "Model":  "Surface Hub 3",
+        "Device":  "Surface Hub 3 85",
+        "Architecture":  "amd64",
+        "DriverId":  "101974",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop",
+        "Model":  "Surface Laptop",
+        "Device":  "Surface Laptop",
+        "Architecture":  "amd64",
+        "DriverId":  "55489",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_2_1769_Commercial",
+        "Model":  "Surface Laptop 2",
+        "Device":  "Surface Laptop 2 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "57515",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_2_1769_Consumer",
+        "Model":  "Surface Laptop 2",
+        "Device":  "Surface Laptop 2 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "57515",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_3_1873",
+        "Model":  "Surface Laptop 3",
+        "Device":  "Surface Laptop 3 13 AMD",
+        "Architecture":  "amd64",
+        "DriverId":  "100428",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_3_1867:1868",
+        "Model":  "Surface Laptop 3",
+        "Device":  "Surface Laptop 3 13 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "100429",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_3_1872",
+        "Model":  "Surface Laptop 3",
+        "Device":  "Surface Laptop 3 15 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "100429",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_4_1958:1959",
+        "Model":  "Surface Laptop 4",
+        "Device":  "Surface Laptop 4 13 AMD",
+        "Architecture":  "amd64",
+        "DriverId":  "102923",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_4_1950:1951",
+        "Model":  "Surface Laptop 4",
+        "Device":  "Surface Laptop 4 13 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "102924",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_4_1952:1953",
+        "Model":  "Surface Laptop 4",
+        "Device":  "Surface Laptop 4 15 AMD",
+        "Architecture":  "amd64",
+        "DriverId":  "102923",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_4_1978:1979",
+        "Model":  "Surface Laptop 4",
+        "Device":  "Surface Laptop 4 15 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "102924",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_5_for_Business_1950:1951",
+        "Model":  "Surface Laptop 5",
+        "Device":  "Surface Laptop 5 13 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "104679",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_5_1950:1951",
+        "Model":  "Surface Laptop 5",
+        "Device":  "Surface Laptop 5 13 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "104679",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_5_for_Business_1979",
+        "Model":  "Surface Laptop 5",
+        "Device":  "Surface Laptop 5 15 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "104679",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_5_1979",
+        "Model":  "Surface Laptop 5",
+        "Device":  "Surface Laptop 5 15 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "104679",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_6_for_Business_2033",
+        "Model":  "Surface Laptop 6",
+        "Device":  "Surface Laptop 6 13 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "105946",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_6_for_Business_2035",
+        "Model":  "Surface Laptop 6",
+        "Device":  "Surface Laptop 6 15 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "105946",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_7th_Edition_For_Business_2036",
+        "Model":  "Surface Laptop 7",
+        "Device":  "Surface Laptop 7 13.8 Commercial",
+        "Architecture":  "arm64",
+        "DriverId":  "106120",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_7th_Edition_2036",
+        "Model":  "Surface Laptop 7",
+        "Device":  "Surface Laptop 7 13.8 Consumer",
+        "Architecture":  "arm64",
+        "DriverId":  "106120",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_7th_Edition_For_Business_2037",
+        "Model":  "Surface Laptop 7",
+        "Device":  "Surface Laptop 7 15 Commercial",
+        "Architecture":  "arm64",
+        "DriverId":  "106120",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_7th_Edition_2037",
+        "Model":  "Surface Laptop 7",
+        "Device":  "Surface Laptop 7 15 Consumer",
+        "Architecture":  "arm64",
+        "DriverId":  "106120",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_7th_Edition_With_Intel_For_Business_2107",
+        "Model":  "Surface Laptop 7",
+        "Device":  "Surface Laptop 7 13.8 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "108014",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_7th_Edition_With_Intel_For_Business_2108",
+        "Model":  "Surface Laptop 7",
+        "Device":  "Surface Laptop 7 15 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "108014",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_Go_1943",
+        "Model":  "Surface Laptop Go",
+        "Device":  "Surface Laptop Go",
+        "Architecture":  "amd64",
+        "DriverId":  "102261",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Laptop_Go_2_2013",
+        "Model":  "Surface Laptop Go 2",
+        "Device":  "Surface Laptop Go 2",
+        "Architecture":  "amd64",
+        "DriverId":  "104251",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_Go_3_2013",
+        "Model":  "Surface Laptop Go 3",
+        "Device":  "Surface Laptop Go 3",
+        "Architecture":  "amd64",
+        "DriverId":  "105608",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_Studio_1964",
+        "Model":  "Surface Laptop Studio",
+        "Device":  "Surface Laptop Studio",
+        "Architecture":  "amd64",
+        "DriverId":  "103505",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Laptop_Studio_2_2029",
+        "Model":  "Surface Laptop Studio 2",
+        "Device":  "Surface Laptop Studio 2",
+        "Architecture":  "amd64",
+        "DriverId":  "105610",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_10_for_Business_2079",
+        "Model":  "Surface Pro 10",
+        "Device":  "Surface Pro 10 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "105947",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_10_with_5G_for_Business_2077",
+        "Model":  "Surface Pro 10",
+        "Device":  "Surface Pro 10 Commercial 5G",
+        "Architecture":  "amd64",
+        "DriverId":  "105947",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_10_with_5G_for_Business_2078",
+        "Model":  "Surface Pro 10",
+        "Device":  "Surface Pro 10 Commercial 5G Japan",
+        "Architecture":  "amd64",
+        "DriverId":  "105947",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_10_with_5G_for_Business_2121",
+        "Model":  "Surface Pro 10",
+        "Device":  "Surface Pro 10 Commercial 5G Korea",
+        "Architecture":  "amd64",
+        "DriverId":  "105947",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_11th_Edition_With_Intel_For_Business_2103",
+        "Model":  "Surface Pro 11",
+        "Device":  "Surface Pro 11 Intel",
+        "Architecture":  "amd64",
+        "DriverId":  "108013",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_11th_Edition_For_Business_2085",
+        "Model":  "Surface Pro 11",
+        "Device":  "Surface Pro 11 Commercial",
+        "Architecture":  "arm64",
+        "DriverId":  "106119",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_with_5G_11th_Edition_For_Business_2077",
+        "Model":  "Surface Pro 11 5G",
+        "Device":  "Surface Pro 11 Commercial 5G",
+        "Architecture":  "arm64",
+        "DriverId":  "106119",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_with_5G_11th_Edition_For_Business_2078",
+        "Model":  "Surface Pro 11 5G",
+        "Device":  "Surface Pro 11 Commercial 5G Japan",
+        "Architecture":  "arm64",
+        "DriverId":  "106119",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_11th_Edition_2076",
+        "Model":  "Surface Pro 11",
+        "Device":  "Surface Pro 11 Consumer",
+        "Architecture":  "arm64",
+        "DriverId":  "106119",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_with_5G_11th_Edition_2077",
+        "Model":  "Surface Pro 11 5G",
+        "Device":  "Surface Pro 11 Consumer 5G",
+        "Architecture":  "arm64",
+        "DriverId":  "106119",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_with_5G_11th_Edition_2078",
+        "Model":  "Surface Pro 11 5G",
+        "Device":  "Surface Pro 11 Consumer 5G Japan",
+        "Architecture":  "arm64",
+        "DriverId":  "106119",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_1796",
+        "Model":  "Surface Pro 5",
+        "Device":  "Surface Pro 5",
+        "Architecture":  "amd64",
+        "DriverId":  "55484",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Pro_1807",
+        "Model":  "Surface Pro 5",
+        "Device":  "Surface Pro 5 LTE",
+        "Architecture":  "amd64",
+        "DriverId":  "56278",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Pro_6_1796_Commercial",
+        "Model":  "Surface Pro 6",
+        "Device":  "Surface Pro 6 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "57514",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Pro_6_1796_Consumer",
+        "Model":  "Surface Pro 6",
+        "Device":  "Surface Pro 6 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "57514",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Pro_7_1866",
+        "Model":  "Surface Pro 7",
+        "Device":  "Surface Pro 7",
+        "Architecture":  "amd64",
+        "DriverId":  "100419",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_7+_1960",
+        "Model":  "Surface Pro 7+",
+        "Device":  "Surface Pro 7+",
+        "Architecture":  "amd64",
+        "DriverId":  "102633",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_7+_with_LTE_Advanced_1961",
+        "Model":  "Surface Pro 7+",
+        "Device":  "Surface Pro 7+ LTE",
+        "Architecture":  "amd64",
+        "DriverId":  "102633",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_8_for_Business_1983",
+        "Model":  "Surface Pro 8",
+        "Device":  "Surface Pro 8",
+        "Architecture":  "amd64",
+        "DriverId":  "103503",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_8_1983",
+        "Model":  "Surface Pro 8",
+        "Device":  "Surface Pro 8 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "103503",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_8_for_Business_with_LTE_Advanced_1982",
+        "Model":  "Surface Pro 8",
+        "Device":  "Surface Pro 8 LTE",
+        "Architecture":  "amd64",
+        "DriverId":  "103503",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_9_With_5G_1996",
+        "Model":  "Surface Pro 9",
+        "Device":  "Surface Pro 9 5G",
+        "Architecture":  "arm64",
+        "DriverId":  "105941",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_9_With_5G_1997",
+        "Model":  "Surface Pro 9",
+        "Device":  "Surface Pro 9 5G USA",
+        "Architecture":  "arm64",
+        "DriverId":  "105941",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_9_for_Business_2038",
+        "Model":  "Surface Pro 9",
+        "Device":  "Surface Pro 9 Commercial",
+        "Architecture":  "amd64",
+        "DriverId":  "104680",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Pro_9_2038",
+        "Model":  "Surface Pro 9",
+        "Device":  "Surface Pro 9 Consumer",
+        "Architecture":  "amd64",
+        "DriverId":  "104680",
+        "Legacy":  false
+    },
+    {
+        "SystemSku":  "Surface_Studio",
+        "Model":  "Surface Studio",
+        "Device":  "Surface Studio",
+        "Architecture":  "amd64",
+        "DriverId":  "54311",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Studio_2_1707_Commercial",
+        "Model":  "Surface Studio 2",
+        "Device":  "Surface Studio 2",
+        "Architecture":  "amd64",
+        "DriverId":  "57593",
+        "Legacy":  true
+    },
+    {
+        "SystemSku":  "Surface_Studio_2+_2028",
+        "Model":  "Surface Studio 2+",
+        "Device":  "Surface Studio 2+",
+        "Architecture":  "amd64",
+        "DriverId":  "104681",
+        "Legacy":  false
+    }
+]
