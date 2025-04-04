@@ -1,0 +1,5155 @@
+[
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "0266",
+        "SupportedModel":  [
+                               "HP 402 G1 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1589",
+        "SupportedModel":  [
+                               "HP Z420 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "158a",
+        "SupportedModel":  [
+                               "HP Z620 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "158b",
+        "SupportedModel":  [
+                               "HP Z820 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "176c",
+        "SupportedModel":  [
+                               "HP EliteBook 8770w Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1790",
+        "SupportedModel":  [
+                               "HP Z220 Convertible Minitower Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1791",
+        "SupportedModel":  [
+                               "HP Z220 Small Form Factor Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1825",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G1 Desktop Mini PC",
+                               "HP MP9 Retail System Model 9000"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18e4",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G1 Tower PC",
+                               "HP EliteDesk 880 G1 Tower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18e5",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G1 Base Model Ultra-slim PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18e6",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G1 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18e7",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G1 Tower PC",
+                               "HP ProDesk 600 G1 Small Form Factor PC",
+                               "HP ProDesk 680 G1 Tower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18e8",
+        "SupportedModel":  [
+                               "HP ProOne 600 G1 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18e9",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G1 Small Form Factor PC",
+                               "HP ProDesk 400 G2 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18ea",
+        "SupportedModel":  [
+                               "HP ProOne 400 G1 19.5-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "18eb",
+        "SupportedModel":  [
+                               "HP ProDesk 490 G1 Microtower PC",
+                               "HP ProDesk 498 G1 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1905",
+        "SupportedModel":  [
+                               "HP Z230 Tower Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1906",
+        "SupportedModel":  [
+                               "HP Z230 Small Form Factor Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1909",
+        "SupportedModel":  [
+                               "HP ZBook 15 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "190a",
+        "SupportedModel":  [
+                               "HP ZBook 17 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1944",
+        "SupportedModel":  [
+                               "HP ProBook 440 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1947",
+        "SupportedModel":  [
+                               "HP ProBook 470 G1 Notebook PC",
+                               "HP ProBook 450 G1 Notebook PC",
+                               "HP ProBook 440 G1 Notebook PC",
+                               "HP ProBook 430 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "198e",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G1 Microtower PC",
+                               "HP ProDesk 480 G1 Microtower PC",
+                               "HP ProDesk 400 G2 Microtower PC",
+                               "HP ProDesk 480 G2 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "198f",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G1 Notebook PC",
+                               "HP EliteBook 850 G1 Notebook PC",
+                               "HP EliteBook 740 G1 Notebook PC",
+                               "HP EliteBook 750 G1 Notebook PC",
+                               "HP ZBook 14 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1991",
+        "SupportedModel":  [
+                               "HP EliteBook 820 G1 Notebook PC",
+                               "HP EliteBook 720 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1992",
+        "SupportedModel":  [
+                               "HP ProBook 645 G1 Notebook PC",
+                               "HP ProBook 655 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1993",
+        "SupportedModel":  [
+                               "HP ProBook 640 G1 Notebook PC",
+                               "HP ProBook 650 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1994",
+        "SupportedModel":  [
+                               "HP ProBook 640 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "1998",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G1 Base Model Small Form Factor PC",
+                               "HP EliteDesk 700 G1 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2009",
+        "SupportedModel":  [
+                               "HP Elite x2 1011 G1 Tablet",
+                               "HP Elite x2 1011 G1 Tablet with Power Keyboard"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2101",
+        "SupportedModel":  [
+                               "HP ProBook 640 G1 Notebook PC",
+                               "HP ProBook 650 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2102",
+        "SupportedModel":  [
+                               "HP ProBook 640 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2129",
+        "SupportedModel":  [
+                               "HP Z840 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "212a",
+        "SupportedModel":  [
+                               "HP Z640 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "212b",
+        "SupportedModel":  [
+                               "HP Z440 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "213e",
+        "SupportedModel":  [
+                               "HP EliteBook Folio 1040 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2157",
+        "SupportedModel":  [
+                               "HP ElitePad 1000 G2 Tablet",
+                               "HP ElitePad 1000 G2 Tablet (Windows Embedded 8.1 Industry Pro 64) Base Model",
+                               "HP ElitePad 1000 G2 Healthcare Tablet",
+                               "HP ElitePad 1000 G2 Rugged Tablet"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2171",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G1 Microtower PC",
+                               "HP ProDesk 485 G1 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2175",
+        "SupportedModel":  [
+                               "HP RP5 Retail System Model 5810"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2176",
+        "SupportedModel":  [
+                               "HP RP2 Retail System Model 2000",
+                               "HP RP2 Retail System Model 2030",
+                               "HP RP2 Retail System Model 2020"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2179",
+        "SupportedModel":  [
+                               "HP ProOne 400 G1 21.5-inch Touch All-in-One PC",
+                               "HP ProOne 400 G1 23-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "21b3",
+        "SupportedModel":  [
+                               "HP EliteBook Revolve 810 G2 Tablet"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "21d0",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G1 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "21f5",
+        "SupportedModel":  [
+                               "HP ProDesk 490 G2 Microtower PC",
+                               "HP ProDesk 498 G2 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "21f6",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G1 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2215",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G1 Small Form Factor PC",
+                               "HP EliteDesk 705 G1 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2216",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G2 Notebook PC",
+                               "HP EliteBook 850 G2 Notebook PC",
+                               "HP EliteBook 740 G2 Notebook PC",
+                               "HP EliteBook 750 G2 Notebook PC",
+                               "HP ZBook 15u G2 Mobile Workstation",
+                               "HP ZBook 14 G2 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "221b",
+        "SupportedModel":  [
+                               "HP Pro x2 612 G1 Tablet",
+                               "HP Pro x2 612 G1 Tablet with Power Keyboard",
+                               "HP Pro x2 612 G1 Tablet with Travel Keyboard"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "221c",
+        "SupportedModel":  [
+                               "HP EliteBook 745 G2 Notebook PC",
+                               "HP EliteBook 755 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "221d",
+        "SupportedModel":  [
+                               "HP EliteBook 725 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2234",
+        "SupportedModel":  [
+                               "HP ProBook 445 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2235",
+        "SupportedModel":  [
+                               "HP ProBook 455 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2236",
+        "SupportedModel":  [
+                               "HP ProBook 455 G2 Notebook PC",
+                               "HP ProBook 445 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2240",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G2 Microtower PC",
+                               "HP ProDesk 485 G2 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2246",
+        "SupportedModel":  [
+                               "HP ProBook 430 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2247",
+        "SupportedModel":  [
+                               "HP ProBook 440 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2248",
+        "SupportedModel":  [
+                               "HP ProBook 450 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2249",
+        "SupportedModel":  [
+                               "HP ProBook 470 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "224a",
+        "SupportedModel":  [
+                               "HP ProBook 470 G2 Notebook PC",
+                               "HP ProBook 450 G2 Notebook PC",
+                               "HP ProBook 440 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2253",
+        "SupportedModel":  [
+                               "HP ZBook 15 G2 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2255",
+        "SupportedModel":  [
+                               "HP ZBook 17 G2 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "225a",
+        "SupportedModel":  [
+                               "HP EliteBook 820 G2 Notebook PC",
+                               "HP EliteBook 720 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "225e",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G1 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "225f",
+        "SupportedModel":  [
+                               "HP EliteOne 705 G1 23-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2270",
+        "SupportedModel":  [
+                               "HP EliteBook Folio 1040 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "2271",
+        "SupportedModel":  [
+                               "HP EliteBook Folio 1020 G1 Notebook PC",
+                               "HP EliteBook Folio 1020 G1 Special Edition Notebook PC",
+                               "HP EliteBook Folio 1020 G1 Bang \u0026 Olufsen Limited Edition"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "22ad",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G1 21.5-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "22da",
+        "SupportedModel":  [
+                               "HP EliteBook Folio 9480m Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "22fb",
+        "SupportedModel":  [
+                               "HP EliteBook Revolve 810 G3 Tablet"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "3561",
+        "SupportedModel":  [
+                               "HP Z1 All-in-One Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8027",
+        "SupportedModel":  [
+                               "HP EliteDesk 700 G1 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "802e",
+        "SupportedModel":  [
+                               "HP Z240 Small Form Factor Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "802f",
+        "SupportedModel":  [
+                               "HP Z240 Tower Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8042",
+        "SupportedModel":  [
+                               "HP Pro Tablet 608 G1"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8053",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G2 Tower PC",
+                               "HP EliteDesk 880 G2 Tower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8054",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G2 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8055",
+        "SupportedModel":  [
+                               "HP MP9 G2 Retail System",
+                               "HP EliteDesk 800 35W G2 Desktop Mini PC",
+                               "HP EliteDesk 800 35W G2 Base Model Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8056",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 35W G2 Desktop Mini PC",
+                               "HP EliteDesk 800 65W G2 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8057",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G2 23-inch Touch All-in-One PC",
+                               "HP EliteOne 800 G2 23-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8058",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G2 23-inch Touch All-in-One PC",
+                               "HP EliteOne 800 G2 23-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "805a",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G2 Microtower PC",
+                               "HP EliteDesk 705 G2 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "805b",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G2 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "805c",
+        "SupportedModel":  [
+                               "HP EliteOne 705 G2 23-inch Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "805d",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G2 Microtower PC",
+                               "HP ProDesk 600 G2 Small Form Factor PC",
+                               "HP ProDesk 680 G2 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "805e",
+        "SupportedModel":  [
+                               "HP ProOne 600 G2 21.5-inch Non-Touch All-in-One PC",
+                               "HP ProOne 600 G2 21.5-inch Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "805f",
+        "SupportedModel":  [
+                               "HP ProDesk 490 G3 Microtower PC",
+                               "HP ProDesk 498 G3 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8060",
+        "SupportedModel":  [
+                               "HP ProDesk 480 G3 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8061",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G3 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8062",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G3 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8063",
+        "SupportedModel":  [
+                               "HP ProOne 400 G2 20-inch Touch All-in-One PC",
+                               "HP ProOne 400 G2 20-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "806a",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G2 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8076",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G1 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8079",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G3 Notebook PC",
+                               "HP EliteBook 848 G3 Notebook PC",
+                               "HP EliteBook 850 G3 Notebook PC",
+                               "HP ZBook 15u G3 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "807c",
+        "SupportedModel":  [
+                               "HP EliteBook 820 G3 Notebook PC",
+                               "HP EliteBook 828 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "807d",
+        "SupportedModel":  [
+                               "HP Z228 Microtower Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "807e",
+        "SupportedModel":  [
+                               "HP EliteBook 745 G3 Notebook PC",
+                               "HP EliteBook 755 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8084",
+        "SupportedModel":  [
+                               "HP EliteBook 725 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "808f",
+        "SupportedModel":  [
+                               "HP ProBook 11 EE G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80d4",
+        "SupportedModel":  [
+                               "HP ZBook Studio G3 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80d5",
+        "SupportedModel":  [
+                               "HP ZBook 15 G3 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80d6",
+        "SupportedModel":  [
+                               "HP ZBook 17 G3 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80ef",
+        "SupportedModel":  [
+                               "HP ProBook 455 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80f0",
+        "SupportedModel":  [
+                               "HP ProBook 455 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80fa",
+        "SupportedModel":  [
+                               "HP EliteBook 1040 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80fb",
+        "SupportedModel":  [
+                               "HP EliteBook 1030 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80fc",
+        "SupportedModel":  [
+                               "HP Elite x2 1012 G1 Tablet",
+                               "HP Elite x2 1012 G1 Tablet with Travel Keyboard"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80fd",
+        "SupportedModel":  [
+                               "HP ProBook 640 G2 Notebook PC",
+                               "HP ProBook 650 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80fe",
+        "SupportedModel":  [
+                               "HP ProBook 645 G2 Notebook PC",
+                               "HP ProBook 655 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "80ff",
+        "SupportedModel":  [
+                               "HP ProBook 430 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8100",
+        "SupportedModel":  [
+                               "HP ProBook 440 G3 Notebook PC",
+                               "HP ProBook 446 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8101",
+        "SupportedModel":  [
+                               "HP ProBook 450 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8102",
+        "SupportedModel":  [
+                               "HP ProBook 470 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8115",
+        "SupportedModel":  [
+                               "HP Z1 All-in-One G3 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8125",
+        "SupportedModel":  [
+                               "HP ProBook 650 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8139",
+        "SupportedModel":  [
+                               "HP RP9 G1 Retail System Model 9015",
+                               "HP RP9 G1 Retail System Model 9018",
+                               "HP RP9 G1 Retail System Model 9115",
+                               "HP RP9 G1 Retail System Model 9118"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8169",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G2 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8170",
+        "SupportedModel":  [
+                               "HP EliteBook Folio G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8183",
+        "SupportedModel":  [
+                               "HP Z238 Microtower Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "818f",
+        "SupportedModel":  [
+                               "HP ProBook 11 EE G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "81b7",
+        "SupportedModel":  [
+                               "HP ProOne 440 G3 23.8-inch Non-Touch All-in-One PC",
+                               "HP ProOne 490 G3 23.8-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "81c3",
+        "SupportedModel":  [
+                               "HP Elite Slice",
+                               "HP Elite Slice for Meeting Rooms"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "81c5",
+        "SupportedModel":  [
+                               "HP Z4 G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "81c6",
+        "SupportedModel":  [
+                               "HP Z6 G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "81c7",
+        "SupportedModel":  [
+                               "HP Z8 G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "822c",
+        "SupportedModel":  [
+                               "HP ProBook 430 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "822e",
+        "SupportedModel":  [
+                               "HP ProBook 440 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8231",
+        "SupportedModel":  [
+                               "HP ProBook 450 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8234",
+        "SupportedModel":  [
+                               "HP ProBook 470 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8236",
+        "SupportedModel":  [
+                               "HP EliteBook 745 G4 Notebook PC",
+                               "HP EliteBook 755 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8238",
+        "SupportedModel":  [
+                               "HP EliteBook 725 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "823a",
+        "SupportedModel":  [
+                               "HP ProBook 645 G3 Base Model Notebook PC",
+                               "HP ProBook 655 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "823c",
+        "SupportedModel":  [
+                               "HP ProBook 455 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "823e",
+        "SupportedModel":  [
+                               "HP ProBook 455 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "824c",
+        "SupportedModel":  [
+                               "HP ZBook x2 G4 Detachable Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8265",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G3 Microtower PC",
+                               "HP EliteDesk 705 G3 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8266",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G3 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "826b",
+        "SupportedModel":  [
+                               "HP ZBook Studio G4 Base Model Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8270",
+        "SupportedModel":  [
+                               "HP ZBook 17 G4 Base Model Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8275",
+        "SupportedModel":  [
+                               "HP ZBook 15 G4 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "827d",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1030 G2 Base Model"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "828b",
+        "SupportedModel":  [
+                               "HP Pro x2 612 G2 Retail Solution with Retail Case",
+                               "HP Pro x2 612 G2 Tablet Base Model"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "828c",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G4 Notebook PC",
+                               "HP EliteBook 848 G4 Notebook PC",
+                               "HP EliteBook 850 G4 Notebook PC",
+                               "HP ZBook 15u G4 Mobile Workstation (ENERGY STAR)",
+                               "HP ZBook 14u G4 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8292",
+        "SupportedModel":  [
+                               "HP EliteBook 820 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8298",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G3 Tower PC (ENERGY STAR)",
+                               "HP EliteDesk 880 G3 Tower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8299",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G3 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "829a",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 35W G3 Desktop Mini PC (ENERGY STAR)",
+                               "HP EliteDesk 800 35W G3 Desktop Mini PC",
+                               "HP EliteDesk 800 65W G3 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "829b",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G3 23.8-inch Touch All-in-One PC",
+                               "HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC",
+                               "HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "829c",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G3 23.8-inch Touch GPU All-in-One PC",
+                               "HP EliteOne 800 G3 23.8-inch Non-Touch GPU All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "829d",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G3 Microtower PC",
+                               "HP ProDesk 600 G3 Microtower PC (with PCI slot)",
+                               "HP ProDesk 680 G3 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "829e",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G3 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "829f",
+        "SupportedModel":  [
+                               "HP EliteOne 1000 G1 34-in Curved All-in-One Business PC",
+                               "HP EliteOne 1000 G1 27-in 4K UHD All-in-One Business PC",
+                               "HP EliteOne 1000 G1 23.8-in Touch All-in-One Business PC",
+                               "HP EliteOne 1000 G1 23.8-in All-in-One Business PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82a1",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G4 Microtower PC",
+                               "HP ProDesk 480 G4 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82a2",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G4 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82a4",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G4 Microtower PC",
+                               "HP ProDesk 480 G4 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82a5",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G3 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82a6",
+        "SupportedModel":  [
+                               "HP ProOne 400 G3 Base Model 20-inch Touch All-in-One PC",
+                               "HP ProOne 400 G3 20-inch Non-Touch All-in-One PC",
+                               "HP ProOne 400 G3 20-inch Touch All-in-One PC",
+                               "HP ProOne 480 G3 20-inch Non-Touch All-in One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82aa",
+        "SupportedModel":  [
+                               "HP ProBook 640 G3 Notebook PC",
+                               "HP ProBook 650 G3 Notebook PC (ENERGY STAR)",
+                               "HP ProBook 650 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82ab",
+        "SupportedModel":  [
+                               "HP ProBook 650 G3 Quad Core Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82b3",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G3 Microtower PC",
+                               "HP ProDesk 600 G3 Microtower PC (with PCI slot)",
+                               "HP ProDesk 680 G3 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82b4",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G3 Base Model Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82b5",
+        "SupportedModel":  [
+                               "HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82bf",
+        "SupportedModel":  [
+                               "HP Z2 Mini G3 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82c0",
+        "SupportedModel":  [
+                               "HP Z2 Mini G3 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82ca",
+        "SupportedModel":  [
+                               "HP Elite x2 1012 G2 Tablet"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82dc",
+        "SupportedModel":  [
+                               "HP ProOne 440 G3 23.8-inch Non-Touch All-in-One PC",
+                               "HP ProOne 490 G3 23.8-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82de",
+        "SupportedModel":  [
+                               "HP EliteBook 1040 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "82ee",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G1 EE Base Model Notebook PC",
+                               "HP ProBook x360 11 G1 EE Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8300",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1020 G2"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8301",
+        "SupportedModel":  [
+                               "HP ProBook 430 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "830a",
+        "SupportedModel":  [
+                               "HP Engage One All-in-One System Model 141",
+                               "HP Engage One All-in-One System Model 143",
+                               "HP Engage One All-in-One System Model 145"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8334",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G2 EE Base Model Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "835b",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G3 Microtower PC",
+                               "HP EliteDesk 705 G3 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "836e",
+        "SupportedModel":  [
+                               "HP ProBook 455 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8370",
+        "SupportedModel":  [
+                               "HP ProBook 455 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8376",
+        "SupportedModel":  [
+                               "HP Z VR Backpack G1 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8377",
+        "SupportedModel":  [
+                               "HP ProBook 430 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "837b",
+        "SupportedModel":  [
+                               "HP ProBook 440 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "837d",
+        "SupportedModel":  [
+                               "HP ProBook 450 G5 Base Model Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "837f",
+        "SupportedModel":  [
+                               "HP ProBook 470 G5 Base Model Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8396",
+        "SupportedModel":  [
+                               "HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms",
+                               "HP Elite Slice G2 with Zoom Rooms",
+                               "HP Elite Slice G2 - Audio Ready with Zoom Rooms",
+                               "HP Elite Slice",
+                               "HP Elite Slice for Meeting Rooms",
+                               "HP Elite Slice for Meeting Rooms G2 for Intel Unite",
+                               "HP Elite Slice for Meeting Rooms G2 for Skype Room Systems"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8397",
+        "SupportedModel":  [
+                               "HP RP9 G1 Retail System Model 9015",
+                               "HP RP9 G1 Retail System Model 9018",
+                               "HP RP9 G1 Retail System Model 9115",
+                               "HP RP9 G1 Retail System Model 9118"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83b2",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G5 Notebook PC",
+                               "HP EliteBook 846 G5 Notebook PC",
+                               "HP EliteBook 850 G5 Notebook PC",
+                               "HP ZBook 15u G5 Mobile Workstation",
+                               "HP ZBook 14u G5 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83b3",
+        "SupportedModel":  [
+                               "HP EliteBook 830 G5 Notebook PC",
+                               "HP EliteBook 836 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83d2",
+        "SupportedModel":  [
+                               "HP ProBook 640 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83d5",
+        "SupportedModel":  [
+                               "HP EliteBook 745 G5 Notebook PC",
+                               "HP EliteBook 755 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83da",
+        "SupportedModel":  [
+                               "HP EliteBook 735 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e0",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G4 Tower PC",
+                               "HP EliteDesk 880 G4 Tower PC",
+                               "HP EliteDesk 800 G4 Workstation Edition"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e1",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G4 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e2",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 35W G4 Desktop Mini PC",
+                               "HP EliteDesk 800 65W G4 Desktop Mini PC",
+                               "HP EliteDesk 800 95W G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e3",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC",
+                               "HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e4",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC",
+                               "HP EliteOne 800 G4 23.8-inch Touch All-in-One PC",
+                               "HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e5",
+        "SupportedModel":  [
+                               "HP EliteOne 1000 G2 23.8-in All-in-One Business PC",
+                               "HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC",
+                               "HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC",
+                               "HP EliteOne 1000 G2 34-in Curved All-in-One Business PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e7",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G4 Microtower PC",
+                               "HP EliteDesk 705 G4 Workstation Edition"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e8",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G4 Small Form Factor PC",
+                               "HP ProDesk 405 G4 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83e9",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 65W G4 Desktop Mini PC",
+                               "HP EliteDesk 705 35W G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83ea",
+        "SupportedModel":  [
+                               "HP ProOne 600 G4 21.5-inch FHD Touch All-in-One Business PC",
+                               "HP ProOne 600 G4 21.5-inch FHD Non-Touch All-in-One Business PC",
+                               "HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC",
+                               "HP ProOne 400 G4 20-inch HD+ Non-Touch All-in-One Business PC",
+                               "HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC",
+                               "HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC",
+                               "HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC",
+                               "HP ZHAN 66 Pro G1 23.8 inch FHD Non-Touch GPU All-in-One Business PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83eb",
+        "SupportedModel":  [
+                               "HP ProOne 600 G4 21.5-inch FHD Touch All-in-One Business PC",
+                               "HP ProOne 600 G4 21.5-inch FHD Non-Touch All-in-One Business PC",
+                               "HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC",
+                               "HP ProOne 400 G4 20-inch HD+ Non-Touch All-in-One Business PC",
+                               "HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC",
+                               "HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC",
+                               "HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC",
+                               "HP ZHAN 66 Pro G1 23.8 inch FHD Non-Touch GPU All-in-One Business PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83ec",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G4 Microtower PC (with PCI slot)",
+                               "HP ProDesk 600 G4 Microtower PC",
+                               "HP ProDesk 680 G4 Microtower PC (with PCI slot)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83ed",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G4 Microtower PC (with PCI slot)",
+                               "HP ProDesk 600 G4 Microtower PC",
+                               "HP ProDesk 680 G4 Microtower PC (with PCI slot)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83ee",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G4 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83ef",
+        "SupportedModel":  [
+                               "HP MP9 G4 Retail System",
+                               "HP ProDesk 600 G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83f0",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G5 Microtower PC",
+                               "HP ProDesk 480 G5 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83f1",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G5 Microtower PC",
+                               "HP ProDesk 480 G5 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83f2",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G5 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83f3",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "83fd",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8401",
+        "SupportedModel":  [
+                               "HP ProBook 645 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8409",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 35W G4 Desktop Mini PC",
+                               "HP EliteDesk 800 65W G4 Desktop Mini PC",
+                               "HP EliteDesk 800 95W G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "840a",
+        "SupportedModel":  [
+                               "HP Engage Flex Pro Retail System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8414",
+        "SupportedModel":  [
+                               "HP Elite x2 1013 G3 Tablet"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8416",
+        "SupportedModel":  [
+                               "HP ProBook 650 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8417",
+        "SupportedModel":  [
+                               "HP EliteBook 1040 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8418",
+        "SupportedModel":  [
+                               "HP EliteBook 846r G4 Notebook PC",
+                               "HP EliteBook 840r G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8427",
+        "SupportedModel":  [
+                               "HP ZBook Studio G5 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "842a",
+        "SupportedModel":  [
+                               "HP ZBook 15 G5 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "842d",
+        "SupportedModel":  [
+                               "HP ZBook 17 G5 Base Model Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8438",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1030 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "844a",
+        "SupportedModel":  [
+                               "HP ProBook 650 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "844f",
+        "SupportedModel":  [
+                               "HP ZBook Studio x360 G5 Convertible Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8455",
+        "SupportedModel":  [
+                               "HP Z2 Tower G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8456",
+        "SupportedModel":  [
+                               "HP Z2 Small Form Factor G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8457",
+        "SupportedModel":  [
+                               "HP Z2 Mini G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8458",
+        "SupportedModel":  [
+                               "HP Z2 Mini G4 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "845a",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 35W G4 Desktop Mini PC",
+                               "HP EliteDesk 800 65W G4 Desktop Mini PC",
+                               "HP EliteDesk 800 95W G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "845d",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G5 Healthcare Edition Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8460",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G4 Microtower PC",
+                               "HP EliteDesk 705 G4 Workstation Edition"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8461",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G4 Microtower PC",
+                               "HP EliteDesk 705 G4 Workstation Edition"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8462",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G4 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8463",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G4 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8464",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 65W G4 Desktop Mini PC",
+                               "HP EliteDesk 705 35W G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "846e",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G4 Microtower PC",
+                               "HP ProDesk 480 G4 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "846f",
+        "SupportedModel":  [
+                               "HP Engage Go Mobile System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8470",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1040 G5 Base Model Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8471",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8476",
+        "SupportedModel":  [
+                               "HP Engage Flex Pro-C Retail System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "847b",
+        "SupportedModel":  [
+                               "HP ZBook 15v G5 Mobile Workstation",
+                               "HP Zhan 99 G1 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "84d8",
+        "SupportedModel":  [
+                               "HP ProBook x360 440 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "84e9",
+        "SupportedModel":  [
+                               "HP EliteBook 1050 G1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8521",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G3 EE Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8524",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G4 EE Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8536",
+        "SupportedModel":  [
+                               "HP ProBook 430 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8537",
+        "SupportedModel":  [
+                               "HP ProBook 440 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8538",
+        "SupportedModel":  [
+                               "HP ProBook 450 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "853d",
+        "SupportedModel":  [
+                               "HP EliteBook x360 830 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8548",
+        "SupportedModel":  [
+                               "HP EliteBook x360 830 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8549",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G6 Notebook PC",
+                               "HP EliteBook 840 G6 Healthcare Edition Notebook PC",
+                               "HP EliteBook 850 G6 Notebook PC",
+                               "HP ZBook 15u G6 Mobile Workstation",
+                               "HP ZBook 14u G6 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "854a",
+        "SupportedModel":  [
+                               "HP EliteBook 830 G6 Notebook PC",
+                               "HP EliteBook 836 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "856d",
+        "SupportedModel":  [
+                               "HP ProBook 640 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "856e",
+        "SupportedModel":  [
+                               "HP ProBook 650 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "857f",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1040 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8580",
+        "SupportedModel":  [
+                               "HP ProDesk 680 G4 Base Model Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8584",
+        "SupportedModel":  [
+                               "HP EliteBook 745 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8589",
+        "SupportedModel":  [
+                               "HP EliteBook 735 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8590",
+        "SupportedModel":  [
+                               "HP VR Backpack G2"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8591",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G5 Tower PC",
+                               "HP EliteDesk 880 G5 Tower PC",
+                               "HP Z1 Entry Tower G5"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8592",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G5 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8593",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G5 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8594",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G5 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8595",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G5 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8596",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G5 Microtower PC",
+                               "HP ProDesk 600 G5 Microtower PC (with PCI slot)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8597",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G5 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8598",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G5 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8599",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G6 Microtower PC",
+                               "HP ProDesk 480 G6 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "859a",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G6 Microtower PC",
+                               "HP ProDesk 480 G6 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "859b",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G6 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "859c",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G5 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "859f",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G5 23.8-inch All-in-One",
+                               "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85a0",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G5 23.8-inch All-in-One",
+                               "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85a1",
+        "SupportedModel":  [
+                               "HP ProOne 600 G5 21.5-in All-in-One Business PC",
+                               "HP ZHAN 66 Pro G2 21.5-in All-in-One",
+                               "HP ProOne 400 G5 20-inch All-in-One Business PC",
+                               "HP ProOne 400 G5 23.8-inch All-in-One Business PC",
+                               "HP ProOne 440 G5 23.8-in All-in-One Business PC",
+                               "HP ZHAN 66 Pro G2 23.8-in All-in-One"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85a2",
+        "SupportedModel":  [
+                               "HP ProOne 600 G5 21.5-in All-in-One Business PC",
+                               "HP ZHAN 66 Pro G2 21.5-in All-in-One",
+                               "HP ProOne 400 G5 20-inch All-in-One Business PC",
+                               "HP ProOne 400 G5 23.8-inch All-in-One Business PC",
+                               "HP ProOne 440 G5 23.8-in All-in-One Business PC",
+                               "HP ZHAN 66 Pro G2 23.8-in All-in-One"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85a3",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 13 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85a5",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 14 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85aa",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 15 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85ad",
+        "SupportedModel":  [
+                               "HP ProBook 445R G6 Notebook PC",
+                               "HP ProBook 455R G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85b9",
+        "SupportedModel":  [
+                               "HP Elite x2 G4 Tablet with Keyboard"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85d9",
+        "SupportedModel":  [
+                               "HP ProBook 455 G6 Notebook PC",
+                               "HP ProBook 445 G6 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "85eb",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G5 23.8-inch All-in-One",
+                               "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "860c",
+        "SupportedModel":  [
+                               "HP ZBook 17 G6 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "860f",
+        "SupportedModel":  [
+                               "HP ZBook 15 G6 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8617",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G5 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8618",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G5 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8619",
+        "SupportedModel":  [
+                               "HP EliteDesk 705 G5 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "861a",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G5 Microtower PC",
+                               "HP ProDesk 600 G5 Microtower PC (with PCI slot)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "861f",
+        "SupportedModel":  [
+                               "HP Elite Dragonfly Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8626",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G4 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8637",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1030 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8655",
+        "SupportedModel":  [
+                               "HP ZHAN X 13 G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "869b",
+        "SupportedModel":  [
+                               "HP ProBook 430 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "869d",
+        "SupportedModel":  [
+                               "HP ProBook 440 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "86a0",
+        "SupportedModel":  [
+                               "HP ProBook 450 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "86a5",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 14 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "86a8",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 15 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "86cf",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G5 EE Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "86d0",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G6 EE Base Model Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "870b",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G6 Tower PC",
+                               "HP EliteDesk 800 G6 Small Form Factor PC",
+                               "HP EliteDesk 880 G6 Tower PC",
+                               "HP Z1 Entry Tower G6"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "870c",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G6 Tower PC",
+                               "HP EliteDesk 800 G6 Small Form Factor PC",
+                               "HP EliteDesk 880 G6 Tower PC",
+                               "HP Z1 Entry Tower G6"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "870d",
+        "SupportedModel":  [
+                               "HP Elite x2 G8 Tablet"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "870f",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8710",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8711",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8712",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G6 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8713",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G6 PCI Microtower PC",
+                               "HP ProDesk 680 G6 PCI Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8714",
+        "SupportedModel":  [
+                               "HP ProDesk 600 G6 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8715",
+        "SupportedModel":  [
+                               "HP Engage Flex Mini Retail System",
+                               "HP ProDesk 600 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8716",
+        "SupportedModel":  [
+                               "HP Elite Dragonfly G2 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8717",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G7 Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8718",
+        "SupportedModel":  [
+                               "HP ProDesk 480 G7 PCI Microtower PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8719",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G7 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "871a",
+        "SupportedModel":  [
+                               "HP ProDesk 400 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "871b",
+        "SupportedModel":  [
+                               "HP ProOne 600 G6 22 All-in-One PC",
+                               "HP ZHAN 66 Pro G3 22 All-in-One PC",
+                               "HP ProOne 400 G6 20 All-in-One PC",
+                               "HP ProOne 400 G6 24 All-in-One PC",
+                               "HP ProOne 440 G6 24 All-in-One PC",
+                               "HP ZHAN 66 Pro G3 24 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "871c",
+        "SupportedModel":  [
+                               "HP ProOne 600 G6 22 All-in-One PC",
+                               "HP ZHAN 66 Pro G3 22 All-in-One PC",
+                               "HP ProOne 400 G6 20 All-in-One PC",
+                               "HP ProOne 400 G6 24 All-in-One PC",
+                               "HP ProOne 440 G6 24 All-in-One PC",
+                               "HP ZHAN 66 Pro G3 24 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8720",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1030 G8 Notebook PC",
+                               "HP EliteBook x360 1040 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8723",
+        "SupportedModel":  [
+                               "HP EliteBook 840 G7 Notebook PC",
+                               "HP EliteBook 830 G7 Notebook PC",
+                               "HP ZBook Firefly 14 G7 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8724",
+        "SupportedModel":  [
+                               "HP EliteBook 850 G7 Notebook PC",
+                               "HP ZBook Firefly 15 G7 Mobile Workstation",
+                               "HP ZBook Firefly 14 G7 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8725",
+        "SupportedModel":  [
+                               "HP EliteBook x360 830 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "872b",
+        "SupportedModel":  [
+                               "HP EliteDesk 805 G6 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "872c",
+        "SupportedModel":  [
+                               "HP EliteDesk 805 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "872d",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G6 Base Model Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "872e",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8730",
+        "SupportedModel":  [
+                               "HP ProBook 455 G7 Notebook PC",
+                               "HP ProBook 445 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8735",
+        "SupportedModel":  [
+                               "HP ProBook x360 435 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8736",
+        "SupportedModel":  [
+                               "HP ZBook Studio G7 Mobile Workstation",
+                               "HP ZBook Create G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "873e",
+        "SupportedModel":  [
+                               "HP ZCentral 4R Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "874d",
+        "SupportedModel":  [
+                               "HP Collaboration G6 27 All-in-One with Zoom Rooms",
+                               "HP EliteOne 800 G6 24 All-in-One PC",
+                               "HP EliteOne 800 G6 27 All-in-One PC",
+                               "HP Collaboration G6 24 All-in-One with Zoom Rooms"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "874e",
+        "SupportedModel":  [
+                               "HP Collaboration G6 27 All-in-One with Zoom Rooms",
+                               "HP EliteOne 800 G6 24 All-in-One PC",
+                               "HP EliteOne 800 G6 27 All-in-One PC",
+                               "HP Collaboration G6 24 All-in-One with Zoom Rooms"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "874f",
+        "SupportedModel":  [
+                               "HP Engage One Pro AIO System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8750",
+        "SupportedModel":  [
+                               "HP Z2 Tower G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8751",
+        "SupportedModel":  [
+                               "HP Z2 Tower G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8752",
+        "SupportedModel":  [
+                               "HP Z2 Small Form Factor G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8753",
+        "SupportedModel":  [
+                               "HP Z2 Small Form Factor G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8754",
+        "SupportedModel":  [
+                               "HP Z2 Mini G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8755",
+        "SupportedModel":  [
+                               "HP Z2 Mini G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8760",
+        "SupportedModel":  [
+                               "HP EliteBook 835 G7 Notebook PC",
+                               "HP EliteBook 845 G7 Notebook PC",
+                               "HP EliteBook 855 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "876b",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro A 14 G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "876d",
+        "SupportedModel":  [
+                               "HP EliteBook x360 1030 G7 Notebook PC",
+                               "HP EliteBook x360 1040 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8780",
+        "SupportedModel":  [
+                               "HP ZBook Fury 17 G7 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8783",
+        "SupportedModel":  [
+                               "HP ZBook Fury 15 G7 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87df",
+        "SupportedModel":  [
+                               "HP ProBook 430 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87e0",
+        "SupportedModel":  [
+                               "HP ProBook 440 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87e1",
+        "SupportedModel":  [
+                               "HP ProBook 450 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87e2",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 14 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87ea",
+        "SupportedModel":  [
+                               "HP ProBook 630 G8 Notebook PC",
+                               "HP ProBook 640 G8 Notebook PC",
+                               "HP ProBook 650 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87ec",
+        "SupportedModel":  [
+                               "HP ZBook Power G7 Mobile Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "87ed",
+        "SupportedModel":  [
+                               "HP ProBook 630 G8 Notebook PC",
+                               "HP ProBook 640 G8 Notebook PC",
+                               "HP ProBook 650 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8807",
+        "SupportedModel":  [
+                               "HP ProBook 440 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8808",
+        "SupportedModel":  [
+                               "HP ProBook 450 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8809",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 14 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "880d",
+        "SupportedModel":  [
+                               "HP EliteBook 830 G8 Notebook PC",
+                               "HP EliteBook 840 G8 Notebook PC",
+                               "HP EliteBook 840 Aero G8 Notebook PC",
+                               "HP ZBook Firefly 14 inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "880f",
+        "SupportedModel":  [
+                               "HP ProOne 400 G6 20 All-in-One PC",
+                               "HP ProOne 400 G6 24 All-in-One PC",
+                               "HP ProOne 440 G6 24 All-in-One PC",
+                               "HP ZHAN 66 Pro G3 24 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8810",
+        "SupportedModel":  [
+                               "HP ProOne 400 G6 20 All-in-One PC",
+                               "HP ProOne 400 G6 24 All-in-One PC",
+                               "HP ProOne 440 G6 24 All-in-One PC",
+                               "HP ZHAN 66 Pro G3 24 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "882c",
+        "SupportedModel":  [
+                               "HP ProBook 640 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "882d",
+        "SupportedModel":  [
+                               "HP ProBook 650 G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8830",
+        "SupportedModel":  [
+                               "HP ProBook 635 Aero G7 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8835",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G6 Base Model Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8836",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G6 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8846",
+        "SupportedModel":  [
+                               "HP EliteBook 850 G8 Notebook PC",
+                               "HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8847",
+        "SupportedModel":  [
+                               "HP EliteBook x360 830 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "885c",
+        "SupportedModel":  [
+                               "HP Presence Control Kit Zoom Room",
+                               "HP Presence Control Plus Kit Microsoft Team Room"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8861",
+        "SupportedModel":  [
+                               "HP ProBook 445 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8864",
+        "SupportedModel":  [
+                               "HP ProBook 455 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8867",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro A 14 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "886d",
+        "SupportedModel":  [
+                               "HP ZBook Fury 17.3 Inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8870",
+        "SupportedModel":  [
+                               "HP ZBook Fury 15.6 Inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8873",
+        "SupportedModel":  [
+                               "HP ZBook Studio 15.6 inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "887d",
+        "SupportedModel":  [
+                               "HP ProBook x360 11 G7 Education Edition Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8881",
+        "SupportedModel":  [
+                               "HP EliteDesk 805 G8 Desktop Mini PC",
+                               "HP Elite Mini 805 G8 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8882",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G8 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8883",
+        "SupportedModel":  [
+                               "HP EliteDesk 805 G8 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8884",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G8 Small Form Factor PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8886",
+        "SupportedModel":  [
+                               "HP ProBook x360 435 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "888c",
+        "SupportedModel":  [
+                               "HP Engage Go 10 Mobile System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "888d",
+        "SupportedModel":  [
+                               "HP ZBook Power 15.6 inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8890",
+        "SupportedModel":  [
+                               "HP Elite Dragonfly Max Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8892",
+        "SupportedModel":  [
+                               "HP ProBook 635 Aero G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8895",
+        "SupportedModel":  [
+                               "HP EliteBook 835 G8 Notebook PC",
+                               "HP EliteBook 845 G8 Notebook PC",
+                               "HP EliteBook 855 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "889c",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G8 Tower PC",
+                               "HP EliteDesk 880 G8 Tower PC",
+                               "HP EliteDesk 800 G8 Small Form Factor PC",
+                               "HP Z1 Entry Tower G8"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "889f",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G8 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "88a0",
+        "SupportedModel":  [
+                               "HP EliteDesk 800 G8 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "88aa",
+        "SupportedModel":  [
+                               "HP EliteOne 800 G8 24 All-in-One PC",
+                               "HP EliteOne 800 G8 27 All-in-One PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "88be",
+        "SupportedModel":  [
+                               "HP Z2 G8 Tower Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "88bf",
+        "SupportedModel":  [
+                               "HP Z2 Small Form Factor G8 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "88c0",
+        "SupportedModel":  [
+                               "HP Z8 G5 Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "88c1",
+        "SupportedModel":  [
+                               "HP Z8 Fury G5 Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "890d",
+        "SupportedModel":  [
+                               "HP Engage One Essential All-in-One System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "894d",
+        "SupportedModel":  [
+                               "HP Elite Tower 800 G9 PC",
+                               "HP Elite Tower 880 G9 PC",
+                               "HP Z1 G9 Tower Desktop"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "894e",
+        "SupportedModel":  [
+                               "HP Elite SFF 800 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "894f",
+        "SupportedModel":  [
+                               "HP Elite Mini 800 G9 Desktop PC",
+                               "HP Mini Conferencing PC with Zoom Rooms",
+                               "HP Mini Conferencing PC with Microsoft Team Rooms"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8950",
+        "SupportedModel":  [
+                               "HP Elite Tower 680 G9 Desktop PC",
+                               "HP Elite Tower 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8951",
+        "SupportedModel":  [
+                               "HP Elite SFF 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8952",
+        "SupportedModel":  [
+                               "HP Elite Mini 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8953",
+        "SupportedModel":  [
+                               "HP Pro Tower 400 G9 PCI Desktop PC",
+                               "HP Pro Tower 480 G9 PCI Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8954",
+        "SupportedModel":  [
+                               "HP Pro SFF 400 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8955",
+        "SupportedModel":  [
+                               "HP Pro Mini 400 G9 PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8957",
+        "SupportedModel":  [
+                               "HP Presence 24 All-in-One with Zoom Rooms",
+                               "HP Presence 27 All-in-One with Zoom Rooms",
+                               "HP EliteOne 870 27 inch G9 All-in-One Desktop PC",
+                               "HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8958",
+        "SupportedModel":  [
+                               "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC",
+                               "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8959",
+        "SupportedModel":  [
+                               "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC",
+                               "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "895c",
+        "SupportedModel":  [
+                               "HP Z2 G9 Tower Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "895d",
+        "SupportedModel":  [
+                               "HP Z2 G9 SFF Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "895e",
+        "SupportedModel":  [
+                               "HP Z2 G9 Mini Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "895f",
+        "SupportedModel":  [
+                               "HP Presence 24 All-in-One with Zoom Rooms",
+                               "HP Presence 27 All-in-One with Zoom Rooms",
+                               "HP EliteOne 870 27 inch G9 All-in-One Desktop PC",
+                               "HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8961",
+        "SupportedModel":  [
+                               "HP Z6 G5 Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8962",
+        "SupportedModel":  [
+                               "HP Z4 G5 Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8968",
+        "SupportedModel":  [
+                               "HP ProDesk 405 G8 Desktop Mini PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "896d",
+        "SupportedModel":  [
+                               "HP EliteBook 1040 14 inch G9 Notebook PC",
+                               "HP EliteBook 830 13.3 inch G9 Notebook PC",
+                               "HP EliteBook 840 14 inch G9 Notebook PC",
+                               "HP EliteBook 860 16 inch G9 Notebook PC",
+                               "HP ZBook Firefly 14 inch G9 Mobile Workstation PC",
+                               "HP ZBook Firefly 16 inch G9 Mobile Workstation PC",
+                               "HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "896e",
+        "SupportedModel":  [
+                               "HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8977",
+        "SupportedModel":  [
+                               "HP ProBook 440 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8978",
+        "SupportedModel":  [
+                               "HP ProBook 450 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8979",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 14 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "897a",
+        "SupportedModel":  [
+                               "HP EliteBook 630 13 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "897b",
+        "SupportedModel":  [
+                               "HP EliteBook 640 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "897c",
+        "SupportedModel":  [
+                               "HP EliteBook 650 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "897f",
+        "SupportedModel":  [
+                               "HP Elite Dragonfly 13.5 inch G3 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8990",
+        "SupportedModel":  [
+                               "HP EliteBook 835 13.3 inch G9 Notebook PC",
+                               "HP EliteBook 845 14 inch G9 Notebook PC",
+                               "HP EliteBook 865 16 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89af",
+        "SupportedModel":  [
+                               "HP Pro x360 Fortis 11 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89b0",
+        "SupportedModel":  [
+                               "HP ProBook Fortis 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89b1",
+        "SupportedModel":  [
+                               "HP Pro x360 Fortis 11 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89b2",
+        "SupportedModel":  [
+                               "HP ProBook Fortis 14 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89c0",
+        "SupportedModel":  [
+                               "HP ZBook Power 15.6 inch G9 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89c3",
+        "SupportedModel":  [
+                               "HP ZBook Studio 16 inch G9 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89c6",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G9 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89c9",
+        "SupportedModel":  [
+                               "HP ProBook 445 14 inch G9 Notebook PC",
+                               "HP ProBook 455 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89cf",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro A 14 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89d2",
+        "SupportedModel":  [
+                               "HP EliteBook 645 14 inch G9 Notebook PC",
+                               "HP EliteBook 655 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "89ed",
+        "SupportedModel":  [
+                               "HP Pro x360 435 13.3 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a05",
+        "SupportedModel":  [
+                               "HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a39",
+        "SupportedModel":  [
+                               "HP MP9 G4 Retail System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a73",
+        "SupportedModel":  [
+                               "HP ProBook 430 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a74",
+        "SupportedModel":  [
+                               "HP ProBook 440 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a75",
+        "SupportedModel":  [
+                               "HP ProBook 450 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a76",
+        "SupportedModel":  [
+                               "HP ProBook 440 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a77",
+        "SupportedModel":  [
+                               "HP ProBook 450 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a83",
+        "SupportedModel":  [
+                               "HP ProBook 430 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a84",
+        "SupportedModel":  [
+                               "HP ProBook 440 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a85",
+        "SupportedModel":  [
+                               "HP ProBook 450 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a86",
+        "SupportedModel":  [
+                               "HP ProBook 440 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a8e",
+        "SupportedModel":  [
+                               "HP ProBook 445 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a90",
+        "SupportedModel":  [
+                               "HP ProBook 455 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a92",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro A 14 G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a94",
+        "SupportedModel":  [
+                               "HP Engage Go 13.5 inch Mobile System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8a9e",
+        "SupportedModel":  [
+                               "HP ProBook 440 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8aa1",
+        "SupportedModel":  [
+                               "HP ProBook 450 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8aa6",
+        "SupportedModel":  [
+                               "HP EliteBook 640 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8aa9",
+        "SupportedModel":  [
+                               "HP EliteBook 650 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ab3",
+        "SupportedModel":  [
+                               "HP EliteBook 830 G8 Notebook PC",
+                               "HP EliteBook 840 G8 Notebook PC",
+                               "HP ZBook Firefly 14 inch G8 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ab8",
+        "SupportedModel":  [
+                               "HP EliteBook 830 G8 Notebook PC",
+                               "HP EliteBook 840 G8 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8abb",
+        "SupportedModel":  [
+                               "HP EliteBook 840 14 inch G9 Notebook PC",
+                               "HP EliteBook 860 16 inch G9 Notebook PC",
+                               "HP ZBook Firefly 14 inch G9 Mobile Workstation PC",
+                               "HP ZBook Firefly 16 inch G9 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8abd",
+        "SupportedModel":  [
+                               "HP Pro x360 Fortis 11 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac1",
+        "SupportedModel":  [
+                               "HP Elite Tower 800 G9 PC",
+                               "HP Elite Tower 880 G9 PC",
+                               "HP Z1 G9 Tower Desktop"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac2",
+        "SupportedModel":  [
+                               "HP Elite SFF 800 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac3",
+        "SupportedModel":  [
+                               "HP Elite Mini 800 G9 Desktop PC",
+                               "HP Mini Conferencing PC with Zoom Rooms",
+                               "HP Mini Conferencing PC with Microsoft Team Rooms"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac4",
+        "SupportedModel":  [
+                               "HP Elite Tower 680 G9 Desktop PC",
+                               "HP Elite Tower 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac5",
+        "SupportedModel":  [
+                               "HP Elite SFF 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac6",
+        "SupportedModel":  [
+                               "HP Elite Mini 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac7",
+        "SupportedModel":  [
+                               "HP Pro Tower 400 G9 PCI Desktop PC",
+                               "HP Pro Tower 480 G9 PCI Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac8",
+        "SupportedModel":  [
+                               "HP Pro SFF 400 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ac9",
+        "SupportedModel":  [
+                               "HP Pro Mini 400 G9 PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8acb",
+        "SupportedModel":  [
+                               "HP EliteOne 870 27 inch G9 All-in-One Desktop PC",
+                               "HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8acc",
+        "SupportedModel":  [
+                               "HP Presence 24 All-in-One with Zoom Rooms",
+                               "HP Presence 27 All-in-One with Zoom Rooms",
+                               "HP EliteOne 870 27 inch G9 All-in-One Desktop PC",
+                               "HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8acd",
+        "SupportedModel":  [
+                               "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC",
+                               "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ace",
+        "SupportedModel":  [
+                               "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC",
+                               "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ad6",
+        "SupportedModel":  [
+                               "HP EliteBook 840 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b12",
+        "SupportedModel":  [
+                               "HP EliteBook 645 14 inch G9 Notebook PC",
+                               "HP EliteBook 655 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b17",
+        "SupportedModel":  [
+                               "HP ProBook 445 14 inch G9 Notebook PC",
+                               "HP ProBook 455 15.6 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b21",
+        "SupportedModel":  [
+                               "HP ZHAN 66 Pro 14 G5 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b24",
+        "SupportedModel":  [
+                               "HP Z6 G5 A Workstation Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b39",
+        "SupportedModel":  [
+                               "HP Elite Tower 680 G9 Desktop PC",
+                               "HP Elite Tower 600 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b3e",
+        "SupportedModel":  [
+                               "HP Z4 Rack G5 Workstation"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b41",
+        "SupportedModel":  [
+                               "HP EliteBook 830 13 inch G10 Notebook PC",
+                               "HP EliteBook 840 14 inch G10 Notebook PC",
+                               "HP EliteBook 1040 14 inch G10 Notebook PC",
+                               "HP EliteBook 860 16 inch G10 Notebook PC",
+                               "HP ZBook Firefly 14 inch G10 Mobile Workstation PC",
+                               "HP ZBook Firefly 16 inch G10 Mobile Workstation PC",
+                               "HP Elite x360 830 13 inch G10 2-in-1 Notebook PC",
+                               "HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b4a",
+        "SupportedModel":  [
+                               "HP Pro x360 Fortis 11 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b4b",
+        "SupportedModel":  [
+                               "HP ProBook Fortis 14 inch G9 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b50",
+        "SupportedModel":  [
+                               "HP Pro x360 435 13.3 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b5c",
+        "SupportedModel":  [
+                               "HP ProBook 445 14 inch G10 Notebook PC",
+                               "HP ProBook 455 15.6 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b5f",
+        "SupportedModel":  [
+                               "HP EliteBook 645 14 inch G10 Notebook PC",
+                               "HP EliteBook 655 15.6 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b63",
+        "SupportedModel":  [
+                               "HP Dragonfly 13.5 inch G4 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b6e",
+        "SupportedModel":  [
+                               "HP EliteBook 845 14 inch G10 Notebook PC",
+                               "HP EliteBook 865 16 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b75",
+        "SupportedModel":  [
+                               "HP ZBook Firefly 14 inch G10 A Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b78",
+        "SupportedModel":  [
+                               "HP ProBook 440 14 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b7c",
+        "SupportedModel":  [
+                               "HP ProBook 450 15.6 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b86",
+        "SupportedModel":  [
+                               "HP EliteBook 630 13.3 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b88",
+        "SupportedModel":  [
+                               "HP EliteBook 640 14 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b8c",
+        "SupportedModel":  [
+                               "HP EliteBook 650 15.6 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b8f",
+        "SupportedModel":  [
+                               "HP ZBook Studio 16 inch G10 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b92",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G10 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b93",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G10 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b94",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G10 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8b95",
+        "SupportedModel":  [
+                               "HP ZBook Power 15.6 inch G10 A Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8bc5",
+        "SupportedModel":  [
+                               "HP Engage Flex Pro G2 Retail System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8bc6",
+        "SupportedModel":  [
+                               "HP Engage Flex Pro-C G2 Retail System"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8bd8",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G10 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8bef",
+        "SupportedModel":  [
+                               "HP ZBook Power 15.6 inch G10 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c10",
+        "SupportedModel":  [
+                               "HP EliteBook 835 13 inch G10 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c26",
+        "SupportedModel":  [
+                               "HP EliteBook 830 13 inch G11 Notebook PC",
+                               "HP Elite x360 830 13 inch G11 2-in-1 Notebook PC",
+                               "HP EliteBook 840 14 inch G11 Notebook PC",
+                               "HP EliteBook 860 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c3b",
+        "SupportedModel":  [
+                               "HP Pro x360 Fortis 11 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c3c",
+        "SupportedModel":  [
+                               "HP Pro x360 Fortis 11 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c52",
+        "SupportedModel":  [
+                               "HP EliteBook 1040 14 inch G11 Notebook PC",
+                               "HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c59",
+        "SupportedModel":  [
+                               "HP Pro Tower 400 G9 PCI Desktop PC",
+                               "HP Pro Tower 480 G9 PCI Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c5a",
+        "SupportedModel":  [
+                               "HP Pro SFF 400 G9 Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c5b",
+        "SupportedModel":  [
+                               "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC",
+                               "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c5d",
+        "SupportedModel":  [
+                               "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC",
+                               "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c63",
+        "SupportedModel":  [
+                               "HP Pro Mini 400 G9 PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c6c",
+        "SupportedModel":  [
+                               "HP Mini Conferencing PC with Zoom Rooms",
+                               "HP Mini Conferencing PC with Microsoft Team Rooms"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c6d",
+        "SupportedModel":  [
+                               "HP EliteBook 835 13 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c6e",
+        "SupportedModel":  [
+                               "HP EliteBook 845 14 inch G11 Notebook PC",
+                               "HP EliteBook 865 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c6f",
+        "SupportedModel":  [
+                               "HP ZBook Firefly 14 inch G11 A Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c79",
+        "SupportedModel":  [
+                               "HP ProBook 445 14 inch G11 Notebook PC",
+                               "HP ProBook 465 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c7a",
+        "SupportedModel":  [
+                               "HP EliteBook 645 14 inch G11 Notebook PC",
+                               "HP EliteBook 665 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c83",
+        "SupportedModel":  [
+                               "HP ProBook 440 14 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c84",
+        "SupportedModel":  [
+                               "HP ProBook 460 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c85",
+        "SupportedModel":  [
+                               "HP EliteBook 630 13.3 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c86",
+        "SupportedModel":  [
+                               "HP EliteBook 640 14 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c87",
+        "SupportedModel":  [
+                               "HP EliteBook 660 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8c95",
+        "SupportedModel":  [
+                               "HP ZBook Power 16 inch G11 A Mobile Workstation PC (A11R3AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ca0",
+        "SupportedModel":  [
+                               "HP ZBook Power 16 inch G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ca4",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ca6",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ca7",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ca9",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8cbe",
+        "SupportedModel":  [
+                               "HP EliteBook Ultra 14 inch G1q Notebook AI PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8cc8",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ccd",
+        "SupportedModel":  [
+                               "HP ZBook Fury 16 G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ccf",
+        "SupportedModel":  [
+                               "HP EliteBook Ultra G1q8 14 inch Notebook AI PC (A8VG1AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8cd1",
+        "SupportedModel":  [
+                               "HP ZBook Firefly 14 inch G11 Mobile Workstation PC",
+                               "HP ZBook Firefly 16 inch G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8ce0",
+        "SupportedModel":  [
+                               "HP EliteBook Ultra G1i 14 inch Notebook Next Gen AI PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8cf5",
+        "SupportedModel":  [
+                               "HP ZBook Studio 16 inch G11 Mobile Workstation PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d01",
+        "SupportedModel":  [
+                               "HP ZBook Ultra 14 inch G1a Mobile Workstation PC (AY8J9AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d03",
+        "SupportedModel":  [
+                               "HP EliteBook 845 14 inch G11 Notebook PC",
+                               "HP EliteBook 865 16 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d04",
+        "SupportedModel":  [
+                               "HP EliteBook 835 13 inch G11 Notebook PC"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d08",
+        "SupportedModel":  [
+                               "HP EliteBook X G1a 14 inch Notebook Next Gen AI PC (A42XBAV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d09",
+        "SupportedModel":  [
+                               "HP Engage One Pro 15.6 G2 AiO System (A2XN7AV)",
+                               "HP Engage One Pro 19.5 G2 AiO System (A2ZH7AV)",
+                               "HP Engage One Pro 23.8 G2 AiO System (A30LBAV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d0a",
+        "SupportedModel":  [
+                               "HP Elite SFF 805 G9 Desktop PC (A09V9AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d1f",
+        "SupportedModel":  [
+                               "HP Fortis Flip G1i 11 inch Notebook PC (A5MW0AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d20",
+        "SupportedModel":  [
+                               "HP Fortis Flip G1i 11 inch Notebook PC (A5MW0AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d33",
+        "SupportedModel":  [
+                               "HP ProDesk 2 Tower G1a Desktop AI PC (A9LE7AV)",
+                               "HP ProDesk 2 Tower G1a E Desktop AI PC (AT9N6AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d35",
+        "SupportedModel":  [
+                               "HP ZHAN 99 Pro Tower G1i Desktop AI PC (A9LE3AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d37",
+        "SupportedModel":  [
+                               "HP ProDesk 2 Tower G1i Desktop PC (AB1G1AV)",
+                               "HP ProDesk 2 Tower G1i E Desktop PC (AS1M5AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d38",
+        "SupportedModel":  [
+                               "HP ProDesk 2 SFF G1i Desktop PC (A9SS7AV)",
+                               "HP ProDesk 2 SFF G1i E Desktop PC (AU0Z2AV)"
+                           ]
+    },
+    {
+        "CatalogVersion":  "25.04.02",
+        "Component":  "Model",
+        "Status":  null,
+        "SystemId":  "8d84",
+        "SupportedModel":  [
+                               "HP EliteBook X G1i 14 inch Notebook Next Gen AI PC (A7JK2AV)",
+                               "HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (A85LKAV)"
+                           ]
+    }
+]
