@@ -736,8 +736,8 @@
         "Status":  null,
         "SystemId":  "8055",
         "SupportedModel":  [
-                               "HP MP9 G2 Retail System",
                                "HP EliteDesk 800 35W G2 Desktop Mini PC",
+                               "HP MP9 G2 Retail System",
                                "HP EliteDesk 800 35W G2 Base Model Desktop Mini PC"
                            ]
     },
