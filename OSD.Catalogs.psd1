@@ -19,6 +19,8 @@
     CmdletsToExport      = @()
     FunctionsToExport    = @(
         'Get-OSDCatalogsPath'
+        'Get-OSDCatalogsModulePath'
+        'Get-OSDCatalogsModuleVersion'
     )
     
     # Private data for the module
